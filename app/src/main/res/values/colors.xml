@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="mudra">#26a9d7</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="greyBackGround">#e3e3e3</color>
+    <color name="grey">#e7e7e7</color>
+    <color name="darkGrey">#b7b7b7</color>
+
+</resources>
